@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Passagem de Parâmetros</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblBtTela2Tela1">Voltar para Tela 1</string>
+    <string name="lblTextoDigite">Digite seu nome:</string>
+    <string name="lblCabecalho">Passagem de Parâmetros</string>
+    <string name="lblTela2">Ir para tela 2</string>
+
+</resources>
